@@ -20,8 +20,8 @@ namespace WindowsFormsApp1
         {
             try
             {
-                string str = ConfigurationManager.ConnectionStrings["CrudOpeartion"].ConnectionString;
-                //string str = "server=10.0.103.99\\SQL2008R2;database=SQL_Training1;UID=training;password=training";
+                string str = ConfigurationManager.ConnectionStrings["CrudConnection"].ConnectionString;
+                
                 con = new SqlConnection(str);
                 con.Open();
 

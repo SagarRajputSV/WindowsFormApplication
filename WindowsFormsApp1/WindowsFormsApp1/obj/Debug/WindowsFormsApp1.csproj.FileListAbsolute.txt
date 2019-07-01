@@ -8,3 +8,4 @@ C:\Users\training\Desktop\Pracitce of C#\SampleWindowsApplication\WindowsFormsAp
 C:\Users\training\Desktop\Pracitce of C#\SampleWindowsApplication\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\training\Desktop\Pracitce of C#\SampleWindowsApplication\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\training\Desktop\Pracitce of C#\SampleWindowsApplication\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\training\Desktop\Pracitce of C#\SampleWindowsApplication\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Billing.resources
